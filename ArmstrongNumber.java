@@ -25,7 +25,8 @@ public class ArmstrongNumber {
         for(int i=100; i<=10000; i++){
             if(isArm(i)){
                 System.out.print(" "+i);
-            }
+            } 
+            // hell
         }
     }
 }
